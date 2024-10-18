@@ -1,3 +1,5 @@
+//Problem Statement: Given an array of size n,
+// write a program to check if the given array is sorted in (ascending / Increasing / Non-decreasing) order or not. If the array is sorted then return True, Else return False
 class ArraySort {
     public static void main(String[] args) {
         int[] arr = {1, 2, 2, 5, 3,4};

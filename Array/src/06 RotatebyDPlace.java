@@ -1,4 +1,4 @@
-
+//Problem Statement: Given an array of integers, rotating array of elements by k elements either left or right.
 import java.util.*;
 class RotateByDPlace {
     public static void Reverse(int[] arr, int start, int end) {

@@ -1,3 +1,4 @@
+//Given an array, we have to find the largest element in the array
 class LargestElement {
     public static void main(String[] args) {
         int[] arr = {1, 3, 7, 5, 9,122};

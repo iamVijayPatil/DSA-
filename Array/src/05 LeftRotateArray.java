@@ -1,3 +1,4 @@
+//Problem Statement: Given an array of N integers, left rotate the array by one place.
 class LeftRotateArray {
     public static void main(String[] args) {
         int[] arr = {1, 3, 7, 5, 9,122};
